@@ -3,7 +3,7 @@
 Generador de Resumen Hiper-Detallado en PDF
 Proyecto: Sistema de Llenado de Flujo Continuo con Control Automático
 Autor: Neil Edickson Suarez Arevalo (NeilsAraquitec)
-Co-Autor: Jose Fabien Salas Garcia
+Co-Autor: Jose Fabian Salas Garcia
 Universidad Santiago Mariño – Teoría Moderna de Control
 """
 
@@ -409,7 +409,7 @@ def build_pdf(output_path):
         [Paragraph("Proyecto Segundo – Versión 2.0", styles['portada_info'])],
         [Spacer(1, 0.4*cm)],
         [Paragraph("<b>Autor:</b>  Neil Edickson Suarez Arevalo  (NeilsAraquitec)", styles['portada_info'])],
-        [Paragraph("<b>Co-Autor:</b>  Jose Fabien Salas Garcia", styles['portada_info'])],
+        [Paragraph("<b>Co-Autor:</b>  Jose Fabian Salas Garcia", styles['portada_info'])],
         [Spacer(1, 0.8*cm)],
         [Paragraph("Junio 2026", styles['portada_info'])],
     ]
@@ -1434,7 +1434,7 @@ def build_pdf(output_path):
         [Spacer(1, 0.5*cm)],
         [Paragraph(
             "<b>Autor:</b>  Neil Edickson Suarez Arevalo  (NeilsAraquitec)<br/>"
-            "<b>Co-Autor:</b>  Jose Fabien Salas Garcia",
+            "<b>Co-Autor:</b>  Jose Fabian Salas Garcia",
             ParagraphStyle('finauthor', parent=styles['portada_info'],
                            fontSize=11, textColor=HexColor("#B3E5FC")))],
         [Spacer(1, 0.3*cm)],

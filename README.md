@@ -2,7 +2,8 @@
 
 **Universidad Santiago Mariño**  
 **Asignatura:** Teoría Moderna de Control  
-**Integrantes:** [Nombres del equipo]  
+**Autor:** Neil Edickson Suarez Arevalo (NeilsAraquitec)  
+**Co-Autor:** Jose Fabian Salas Garcia  
 **Última actualización:** Sesión 002 — Junio 2026
 
 ---
